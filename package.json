@@ -1,0 +1,11 @@
+{
+  "name": "learning-speech-to-text",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "RAJAT VIJAY",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/language": "^2.0.0",
+    "@google-cloud/speech": "^2.1.1"
+  }
+}
